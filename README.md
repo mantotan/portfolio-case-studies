@@ -29,9 +29,13 @@ This repository contains public case studies and selected product breakdowns. Mo
 
 1. [Bazi Fortune - AI Astrology Product](case-studies/bazi-fortune.md)
 2. [Study Genius AI - AI Learning Product](case-studies/study-genius-ai.md)
-3. [KunciNFT Marketplace - NFT Marketplace](case-studies/kuncinft-marketplace.md)
-4. [Vexanium Staking & Blockchain Infrastructure](case-studies/vexanium-staking.md)
-5. [Market-Making Bot Across 12 Exchanges](case-studies/market-making-bot.md)
+3. [Crypto Watcher - Realtime Market Data & Signals Platform](case-studies/crypto-watcher.md)
+4. [Community Swarm - Polyglot Web3 + AI Bot Platform](case-studies/community-swarm.md)
+5. [KunciNFT Marketplace - NFT Marketplace](case-studies/kuncinft-marketplace.md)
+6. [Vexanium Staking & Blockchain Infrastructure](case-studies/vexanium-staking.md)
+7. [Snuggle Rhino - NFT Mint Platform](case-studies/snuggle-rhino.md)
+8. [Octonpus - Solana Web3 Game](case-studies/octonpus.md)
+9. [Market-Making Bot Across 12 Exchanges](case-studies/market-making-bot.md)
 
 ## Core Strengths Demonstrated
 
