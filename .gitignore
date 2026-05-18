@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+.env*
+.secrets/
+*.local
+node_modules/
