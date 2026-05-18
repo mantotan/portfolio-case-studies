@@ -8,7 +8,7 @@ A production copy-trading system for Polymarket prediction markets. Watches a cu
 
 ## Role
 
-Solo founder, architect, and builder. Designed the polyglot split (Rust hot path + Node orchestration over Unix-socket IPC), the 21-step filter chain, the three-signal trade-detection architecture, and the backtest pipeline. Built the system end-to-end including CI/CD, Docker deploy, operational tooling, and 106-test Rust suite.
+Solo founder and architect. Primary language is TypeScript; designed the polyglot split (Rust hot path + Node orchestration over Unix-socket IPC), the 21-step filter chain, the three-signal trade-detection architecture, the backtest pipeline, and the IPC protocol. The Rust copier microservice was implemented with AI-assisted engineering (Claude Code) under my architecture and integration ownership — design decisions, system boundaries, and live debugging are mine; the Rust code itself was driven through the agent. End-to-end ownership of CI/CD, Docker deploy, and operational tooling.
 
 ## Stack / Domains
 
@@ -44,8 +44,9 @@ Solo founder, architect, and builder. Designed the polyglot split (Rust hot path
 ## What This Demonstrates
 
 - Polyglot production system design with a clear hot-path / durable-path responsibility split
-- Sub-second WSS-driven execution with Rust + tokio
-- Cryptographic depth: manual EIP-712 signing, HMAC-SHA256 CLOB authentication
+- System designed for sub-second WSS-driven execution on a Rust hot path
+- Cryptographic system design: manual EIP-712 signing, HMAC-SHA256 CLOB authentication
 - Independent-failure-domain design: three trade-detection signals with disjoint failure modes
 - Test discipline at scale (106 Rust tests + Vitest suites) with CI gating before every Docker push
+- AI-assisted engineering applied to cross-language implementation — TypeScript authored directly, Rust implemented under architectural direction
 - Public, MIT-licensed, runnable code with paper-mode safety default

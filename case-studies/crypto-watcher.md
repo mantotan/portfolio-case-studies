@@ -6,7 +6,7 @@ A multi-service realtime crypto market-data and signals platform spanning data i
 
 ## Role
 
-Founder and lead engineer at Hato Labs. Designed the overall multi-service architecture, owned the Python/Go quant pipeline and the TypeScript API + client surfaces end-to-end, with occasional contractor help on a subset of services.
+Founder and lead engineer at Hato Labs. Primary language is TypeScript; designed the overall multi-service architecture and owned the TypeScript API + client surfaces end-to-end. The Python/Go quant and execution services were implemented with AI-assisted engineering under my architectural and integration ownership — design, service boundaries, data contracts, and operational debugging are mine. Occasional contractor help on a subset of services.
 
 ## Stack / Domains
 
@@ -44,7 +44,7 @@ Founder and lead engineer at Hato Labs. Designed the overall multi-service archi
 ## What This Demonstrates
 
 - Multi-service backend architecture under one technical lead
-- Polyglot stack proficiency across Python, Go, and TypeScript
+- Cross-language system design across Python, Go, and TypeScript with TypeScript directly authored and Python/Go implemented under architectural direction
 - Realtime data systems with Redis TimeSeries, ClickHouse, WebSockets
 - Workflow automation with self-hosted n8n for data ingest orchestration
 - Domain knowledge of exchange APIs, futures markets, and risk management
