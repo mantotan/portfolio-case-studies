@@ -32,11 +32,12 @@ This repository contains public case studies and selected product breakdowns. Mo
 3. [Crypto Watcher - Realtime Market Data & Signals Platform](case-studies/crypto-watcher.md)
 4. [Community Swarm - Web3 Community Management SaaS](case-studies/community-swarm.md)
 5. [TikTok Live Scraper - WebSocket Resilience & Proxy Infrastructure](case-studies/tiktok-live-scraper.md) — [source](https://github.com/mantotan/tiktok-live-scraper)
-6. [KunciNFT Marketplace - NFT Marketplace](case-studies/kuncinft-marketplace.md)
-7. [Vexanium Staking & Blockchain Infrastructure](case-studies/vexanium-staking.md)
-8. [Snuggle Rhino - NFT Mint Platform](case-studies/snuggle-rhino.md)
-9. [Octonpus - Solana Web3 Game](case-studies/octonpus.md)
-10. [Market-Making Bot Across 12 Exchanges](case-studies/market-making-bot.md)
+6. [Polymarket Copy-Trade - Polyglot Trade Execution (Rust + TypeScript)](case-studies/polymarket-copy-trade.md) — [source](https://github.com/mantotan/polymarket-copy-trade)
+7. [KunciNFT Marketplace - NFT Marketplace](case-studies/kuncinft-marketplace.md)
+8. [Vexanium Staking & Blockchain Infrastructure](case-studies/vexanium-staking.md)
+9. [Snuggle Rhino - NFT Mint Platform](case-studies/snuggle-rhino.md)
+10. [Octonpus - Solana Web3 Game](case-studies/octonpus.md)
+11. [Market-Making Bot Across 12 Exchanges](case-studies/market-making-bot.md)
 
 ## Core Strengths Demonstrated
 
